@@ -10,3 +10,4 @@
 set(CMAKE_C_COMPILER "/usr/bin/avr-gcc")
 set(CMAKE_CXX_COMPILER "/usr/bin/avr-g++")
 set(CMAKE_ASM_COMPILER "/usr/bin/avr-gcc")
+set(CMAKE_OBJCOPY "/usr/bin/avr-objcopy")
