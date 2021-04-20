@@ -14,7 +14,7 @@ add_executable(${target} main.c)
 set_target_properties(
 	${target}
 	PROPERTIES
-	COMPILE_FLAGS "-mmcu=at90usb1287"
+	COMPILE_FLAGS "-mmcu=at90usb1287 -O0 -Wall"
 	LINK_FLAGS "-mmcu=at90usb1287"
 )
 
