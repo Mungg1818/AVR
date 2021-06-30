@@ -1,2 +1,3 @@
 # AVR
 Learnig repository for git/AVR/CMake/...
+small change
